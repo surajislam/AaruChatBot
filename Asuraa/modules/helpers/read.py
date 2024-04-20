@@ -13,7 +13,7 @@ TOOLS_DATA_READ = f"""
 CHATBOT_READ = f"""
 ๏** ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ {BOT_NAME} !\n\n๏ ᴜsᴇ /chatbot ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ .\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [ɢᴏᴅ ʀᴀᴠᴀɴ](https://t.me/God_Ravana)**"""
 
-SOURCE_READ = f"**๏ ᴀᴀ ɢʏᴀ ʀᴇᴘᴏ ʟᴇɴᴇ ʙᴏsᴅᴋ.** "
+SOURCE_READ = f"**๏ Repo on Telegram Channel.\n\n@God_Ravana** "
 
 ADMIN_READ = f"**sᴏᴏɴ**"
 

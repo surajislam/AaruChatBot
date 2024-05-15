@@ -120,7 +120,7 @@ ABOUT_BTN = [
     ],
     [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=OWNER),
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", callback_data="SOURCE"),
+        InlineKeyboardButton(text="ʀᴇᴘᴏ", url=f"https://github.com/GOD-R4V4N/AaruChatBot")
     ],
     [
         InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/{UPDATE_CHNL}"),

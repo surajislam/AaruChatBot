@@ -25,8 +25,7 @@ PNG_BTN = [
     [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-            url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
-        ),
+            url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
     ],
     [
         InlineKeyboardButton(

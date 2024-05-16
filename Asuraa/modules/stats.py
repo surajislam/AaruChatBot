@@ -11,7 +11,7 @@ async def stats(cli: dev, message: Message):
     users = len(await get_served_users())
     chats = len(await get_served_chats())
     await message.reply_text(
-        f"""ᴀʟʟ sᴛᴀᴛs ᴏғ ɴʏᴋᴀᴀ ᴄʜᴀᴛʙᴏᴛ {(await cli.get_me()).mention} :
+        f"""ᴀʟʟ sᴛᴀᴛs ᴏғ ᴍᴀʜᴀᴋ ᴄʜᴀᴛʙᴏᴛ {(await cli.get_me()).mention} :
 
 ๏ **ᴄʜᴀᴛs ➛** {chats}
 ๏ **ᴜsᴇʀs ➛** {users}"""

@@ -1,8 +1,8 @@
 <h2 align="center">
-    ──「 _🫧𝆺𝅥˚ 🖇️𝗮𝗮𝚛ϋ♡┊🧸𝆺꯭𝅥❤️//  ᴄʜᴀᴛ ʙᴏᴛ 」──
+    ──「 ͥ ⃪ᷟ꯬꯭⃗🆂꯭𝐮𝐤꯭𝐨𝐨꯭𝐧꯭🔥꯭ꭗ̥̽༎⃪̻⁣//  ᴄʜᴀᴛ ʙᴏᴛ 」──
 </h2>
 <p align="center">
-  <img src="https://graph.org/file/84e84ff778b045879d24f.jpg">
+  <img src="https://graph.org/file/f1ae76618d14521b34905.jpg">
 </p>
 
 <h3 align="center">
